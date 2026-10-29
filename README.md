@@ -1,39 +1,54 @@
-###
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavohsd.gustavohsd&" alt="visitors" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavohsd.gustavohsd&"  />
-</div>
+<br />
 
-###
+### About Me
 
-<h3 align="left">About me</h3>
+Software Engineer & Infrastructure Lead focused on taking projects from the first line of code to production and end-user delivery.
 
-###
+- **End-to-End Systems:** Experience architecting distributed backends, web/desktop applications, and micro frontends using Rust, Python, TypeScript, and Java.
+- **Data & Automation:** Building automated ETL pipelines (Airflow, Python), database functions/optimizations, and integrations with varied systems, legacy software, databases and APIs.
+- **DevOps & Infrastructure:** Hands-on experience configuring Linux servers, Docker environments, reverse proxies (Nginx, Traefik) and automated CI/CD pipelines via GitHub Actions.
+- **Research & Academia:** Co-author of peer-reviewed scientific papers on software architecture and system redesign presented at international conferences (CLEI & SIPEC).
 
-<p align="left">I build high-performance, cross-platform desktop applications and robust enterprise solutions. Currently, I’m an Engineer at Indie Expert, specializing in the Tauri ecosystem, Rust, and React.<br><br>Desktop & Systems: Architecting ERPs and dashboards with Tauri and Rust.<br><br>Enterprise Backend: Experienced in Java (Spring Boot) and PostgreSQL.<br><br>Automation: Developing Python-based RPAs to optimize business workflows.</p>
+---
 
-###
+### Technologies
 
-<h3 align="left">Language and tools</h3>
-
-###
-
+**Application Development**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring Boot" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="36" alt="Tauri" />
 </div>
 
-###
+<br />
+
+**DevOps, Data & Infrastructure**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="36" alt="Apache Airflow" />
+</div>
